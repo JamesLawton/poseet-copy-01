@@ -123,7 +123,6 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         content_align: left
-        image: /images/icon-3.svg
         image_alt: Section item 4 icon
         image_position: top
         image_align: left
