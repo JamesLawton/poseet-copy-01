@@ -57,7 +57,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Practice with any video - social or your own
+      - title: 'Practice with any video - social, online, or your own'
         content: >
           Use any video, either your own or your favorite from online, as a
           reference for the movement you would like to improve. Share your score
