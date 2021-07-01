@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Poseet
+    title: Learn any physical skill
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
