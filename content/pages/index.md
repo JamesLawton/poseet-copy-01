@@ -55,9 +55,12 @@ sections:
         media_position: left
         media_width: sixty
       - title: Unlock hidden insights
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          We analyze your form to measure every success. Do you make more
+          freethrows on the basketball court when you increase the angle of your
+          elbow? How about how far a golf ball travels depending the rotation of
+          your hips during the swing? These insights are normally hard to see,
+          but poseet helps reveal what works best for you.
         actions:
           - label: Learn More
             url: /thank-you
