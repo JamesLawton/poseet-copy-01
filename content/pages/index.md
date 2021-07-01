@@ -60,7 +60,8 @@ sections:
       - title: Practice with any video - social or your own
         content: >
           Use any video, either your own or your favorite from online, as a
-          reference for the movement you would like to perfect.
+          reference for the movement you would like to improve. Share your score
+          and top the leaderboard to see who has the best moves!
         actions:
           - label: Learn More
             url: /thank-you
