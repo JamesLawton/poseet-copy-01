@@ -79,7 +79,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: Select a reference video
+      - title: 1. Select a reference video
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
