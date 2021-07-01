@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Learn any physical skill
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'better, faster, and smarter with Poseet'
     actions:
       - label: Try for free
         url: /pricing
