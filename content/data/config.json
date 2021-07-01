@@ -35,7 +35,7 @@
             },
             {
                 "label": "Get Started",
-                "url": "/thank-you",
+                "url": "https://app.poseet.com",
                 "style": "primary"
             }
         ]
