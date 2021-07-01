@@ -58,10 +58,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: Practice with any video - social or your own
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: >
+          Use any video as a reference for the movement you would like to
+          perfect.
         actions:
           - label: Learn More
             url: /thank-you
