@@ -193,7 +193,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: 'Poseet - Learn any physical skill faster, better, smarter'
-  description: The preview of the Startup theme
+  description: >-
+    Train and practice with any video - social, online or your own to perfect
+    your form.
   extra:
     - name: 'og:type'
       value: website
