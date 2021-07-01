@@ -30,7 +30,7 @@
             },
             {
                 "label": "Log in",
-                "url": "https://app.poseet.com/",
+                "url": "https://app.poseet.com/login",
                 "style": "secondary"
             },
             {
