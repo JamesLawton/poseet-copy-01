@@ -152,7 +152,7 @@ sections:
     content: Start achieving your goals today!
     actions:
       - label: Try for free
-        url: /thank-you
+        url: 'https://poseet.com'
         style: primary
     actions_width: fourty
     align: center
