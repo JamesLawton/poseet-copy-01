@@ -59,8 +59,8 @@ sections:
         media_width: sixty
       - title: Practice with any video - social or your own
         content: >
-          Use any video as a reference for the movement you would like to
-          perfect.
+          Use any video, either your own or your favorite from online, as a
+          reference for the movement you would like to perfect.
         actions:
           - label: Learn More
             url: /thank-you
