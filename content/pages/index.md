@@ -6,7 +6,7 @@ sections:
     subtitle: 'better, faster, and smarter with Poseet'
     actions:
       - label: Try for free
-        url: /pricing
+        url: 'https://app.poseet.com'
         style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
