@@ -42,9 +42,10 @@ sections:
     title: Why Choose Poseet?
     features:
       - title: Use real-time feedback to perfect your moves
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          Poseet provides real-time feedback on your dance move, golf swing,
+          yoga pose - any activity you would like to perfect. This helps you
+          adjust your form as you move and enables you to find your weak points.
         actions:
           - label: Learn More
             url: /thank-you
