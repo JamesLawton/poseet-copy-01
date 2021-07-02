@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: Answers to common questions about poseet
+    subtitle: Answers to common questions about Poseet
     align: center
     padding_top: large
     padding_bottom: none
