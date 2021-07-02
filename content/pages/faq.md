@@ -15,10 +15,10 @@ sections:
           your movement was to the reference video. The highest score attainable
           is 10,000.
       - title: Do you sell my data or videos?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We don't sell your data or videos to any third party. We may use your
+          data to improve our own models, however no external service or party
+          will receive your underlying data.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
