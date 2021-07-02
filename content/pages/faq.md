@@ -10,10 +10,10 @@ sections:
   - type: grid_section
     grid_items:
       - title: How do you calculate the score?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We use a proprietary scoring algorithm that estimates how accurate
+          your movement was to the reference video. The highest score attainable
+          is 10,000.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
