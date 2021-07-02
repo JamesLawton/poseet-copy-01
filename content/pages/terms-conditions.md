@@ -21,8 +21,6 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-# Welcome to Poseet!
-
 These terms and conditions outline the rules and regulations for the use of Poseet's Website, located at https://poseet.com.
 
 By accessing this website we assume you accept these terms and conditions. Do not continue to use Poseet if you do not agree to take all of the terms and conditions stated on this page.
