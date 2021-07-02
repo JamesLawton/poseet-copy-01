@@ -106,10 +106,9 @@ sections:
         image_has_padding: true
       - title: 3. Press Play
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Press Play to immediately start practicing. You can also select
+          Preview if you would like to prepare yourself for the movement first.
         content_align: left
         image_alt: Section item 3 icon
         image_position: top
