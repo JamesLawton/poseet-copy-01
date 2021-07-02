@@ -86,7 +86,7 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "url": "https",
                 "style": "link"
             }
         ],
