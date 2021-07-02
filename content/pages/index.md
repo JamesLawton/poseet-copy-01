@@ -119,7 +119,7 @@ sections:
         content: >
           Attempt to recreate the movement as accurately as possible. We can
           provide feedback to help improve your form as you move. At the end,
-          we'll show your score of how close you were!
+          we'll show your score of how close you were.
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
