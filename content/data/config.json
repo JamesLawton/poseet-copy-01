@@ -10,7 +10,7 @@
         "title": "Poseet",
         "logo": "/images/poseetlogo.png",
         "logo_alt": "Poseet logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
