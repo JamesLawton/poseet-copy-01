@@ -84,6 +84,9 @@ export default class Header extends React.Component {
                             {logo ? <Link className="navbar__logo m-0" href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} /></Link>
                                 : <Link className="navbar__title h4 m-0" href={withPrefix('/')}>{title}</Link>}
                         </div>
+                        <div>
+                        Poseet
+                        </div>
                         {((hasPrimaryNav && !_.isEmpty(primaryNavLinks)) || (hasSecondaryNav && !_.isEmpty(secondaryNavLinks))) && (
                             <React.Fragment>
                                 <div className="navbar__container flex-md-auto">
