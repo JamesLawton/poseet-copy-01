@@ -95,9 +95,9 @@ sections:
         image_has_padding: true
       - title: 2. Turn on your camera
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          We request access to your camera to compare your form to the reference
+          video
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
