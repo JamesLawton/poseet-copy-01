@@ -84,10 +84,10 @@ sections:
     grid_items:
       - title: 1. Select a reference video
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          Choose any video you would like to use a reference for your perfect
+          form. Fitness stars, influencers, friends, a coach, or even yourself
+          can be an excellent guide.
         content_align: left
         image_alt: Section item 1 icon
         image_position: top
