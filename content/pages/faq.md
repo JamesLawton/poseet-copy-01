@@ -19,11 +19,6 @@ sections:
           We don't sell your data or videos to any third party. We may use your
           data to improve our own models, however no external service or party
           will receive your underlying data.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
