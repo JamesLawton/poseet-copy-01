@@ -147,7 +147,7 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 10
-      - type: form_section
+  - type: form_section
     title: Subscribe to our newsletter to make sure you don’t miss anything
     title_align: center
     form_position: bottom
