@@ -1,6 +1,24 @@
 ---
 title: Blog
 sections:
+  - type: form_section
+    title: Subscribe to our newsletter to make sure you don’t miss anything
+    title_align: center
+    form_position: bottom
+    form_layout: inline
+    form_id: subscribeForm
+    form_action: /thank-you
+    form_fields:
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+    submit_label: Subscribe
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: secondary
   - type: hero_section
     title: Blog
     subtitle: Planning and productivity insights
@@ -20,48 +38,30 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
-    title: Subscribe to our newsletter to make sure you don’t miss anything
-    title_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-    submit_label: Subscribe
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: secondary
 seo:
   title: Blog
   description: This is the blog page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Blog
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the blog page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-5.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Blog
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the blog page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-5.png
       relativeUrl: true
 layout: advanced
