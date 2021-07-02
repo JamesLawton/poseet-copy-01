@@ -14,7 +14,7 @@ sections:
           We use a proprietary scoring algorithm that estimates how accurate
           your movement was to the reference video. The highest score attainable
           is 10,000.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Do you sell my data or videos?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
