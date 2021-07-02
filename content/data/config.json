@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "title": "Poseet",
-        "logo": "/images/android-icon-144x144.png",
+        "logo": "/images/android-icon-48x48.png",
         "logo_alt": "Poseet logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
