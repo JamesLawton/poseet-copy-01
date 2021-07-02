@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Learn any physical skill
-    subtitle: 'better, faster, and smarter with Poseet'
+    subtitle: 'better, faster, and smarter with Poseet.'
     actions:
       - label: Try for free
         url: 'https://app.poseet.com'
