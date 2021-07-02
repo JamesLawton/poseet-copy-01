@@ -97,7 +97,8 @@ sections:
         title_align: left
         content: >
           We request access to your camera to compare your form to the reference
-          video
+          video. Don't worry, we take your privacy seriously and turn off the
+          camera automatically after leaving the page.
         content_align: left
         image_alt: Section item 2 icon
         image_position: top
