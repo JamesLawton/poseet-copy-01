@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
                 "label": "Log in",
                 "url": "https://app.poseet.com/login",
                 "style": "secondary"
