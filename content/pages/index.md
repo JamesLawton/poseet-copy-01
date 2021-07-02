@@ -131,22 +131,24 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: blog_feed_section
-    title: What's New
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: false
-    show_excerpt: false
-    align: center
+  - type: form_section
+    title: Subscribe to our newsletter to make sure you don’t miss anything
+    title_align: center
+    form_position: bottom
+    form_layout: inline
+    form_id: subscribeForm
+    form_action: /thank-you
+    form_fields:
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+    submit_label: Subscribe
     padding_top: medium
     padding_bottom: medium
-    has_border: false
-    background_color: none
+    has_border: true
+    background_color: secondary
   - type: cta_section
     title: Ready to get started?
     content: Start achieving your goals today!
