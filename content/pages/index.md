@@ -40,9 +40,10 @@ sections:
         media_width: sixty
       - title: 'Practice with any video - social, online, or your own'
         content: >
-          Use any video, either your own or your favorite from online, as a
-          reference for the movement you would like to improve. Share your score
-          and top the leaderboard to see who has the best moves!
+          Use any video, either your own, your favorite from online or from
+          social media, as a reference for the movement you would like to
+          improve. Share your score and top the leaderboard to see who has the
+          best moves!
         actions:
           - label: Learn More
             url: /thank-you
