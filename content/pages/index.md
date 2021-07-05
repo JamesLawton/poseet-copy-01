@@ -50,7 +50,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/Screenshot 2021-06-21 at 13.46.37.png
+        image: /images/poseet (1).svg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
