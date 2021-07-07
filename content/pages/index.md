@@ -64,7 +64,7 @@ sections:
           but poseet helps reveal what works best for you.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: 'https://app.poseet.com'
             style: link
             has_icon: true
             icon: arrow-right
