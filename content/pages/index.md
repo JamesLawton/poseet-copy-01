@@ -46,7 +46,7 @@ sections:
           best moves!
         actions:
           - label: Learn More
-            url: /thank-you
+            url: https
             style: link
             has_icon: true
             icon: arrow-right
