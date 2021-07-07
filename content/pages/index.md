@@ -155,13 +155,16 @@ sections:
     form_layout: inline
     form_id: subscribeForm
     form_action: >-
-      https://gmail.us3.list-manage.com/subscribe/post?u=6bbba237f2301d590d83b67ef&amp;id=bff745b8bf method="post"
+      https://gmail.us3.list-manage.com/subscribe/post?u=6bbba237f2301d590d83b67ef&amp;id=bff745b8bf
+      method="post"
     form_fields:
       - input_type: email
         name: email
         label: Email
         default_value: Your email address
         is_required: true
+        options:
+          - lorem-ipsum
     submit_label: Subscribe
     padding_top: medium
     padding_bottom: medium
