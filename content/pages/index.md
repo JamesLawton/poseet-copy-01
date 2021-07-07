@@ -163,8 +163,7 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-        options:
-          - lorem-ipsum
+        options: []
     submit_label: Subscribe
     padding_top: medium
     padding_bottom: medium
