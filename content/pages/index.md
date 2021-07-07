@@ -29,7 +29,7 @@ sections:
           adjust your form as you move and enables you to find your weak points.
         actions:
           - label: Learn More
-            url: /
+            url: 'https://app.poseet.com'
             style: link
             has_icon: true
             icon: arrow-right
