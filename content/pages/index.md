@@ -156,7 +156,6 @@ sections:
     form_id: subscribeForm
     form_action: >-
       https://gmail.us3.list-manage.com/subscribe/post?u=6bbba237f2301d590d83b67ef&amp;id=bff745b8bf"
-      method="post"
     form_fields:
       - input_type: email
         name: email
