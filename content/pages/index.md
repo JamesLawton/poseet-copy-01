@@ -46,7 +46,7 @@ sections:
           best moves!
         actions:
           - label: Learn More
-            url: https
+            url: 'https://app.poseet.com'
             style: link
             has_icon: true
             icon: arrow-right
