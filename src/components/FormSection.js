@@ -98,10 +98,9 @@ export default class FormSection extends React.Component {
                             })}
                         >
                             <form
-                                action="https://gmail.us3.list-manage.com/subscribe/post?u=6bbba237f2301d590d83b67ef&amp;id=bff745b8bf" 
                                 name={formId}
                                 id={formId}
-                                // {...(formAction ? ({ action: formAction }) : null)}
+                                {...(formAction ? ({ action: formAction }) : null)}
                                 method="POST"
                                 data-netlify="true"
                                 data-netlify-honeypot={formHoneypotName}
@@ -116,7 +115,7 @@ export default class FormSection extends React.Component {
                                     <label id={formHoneypotLabelId} htmlFor={formHoneypotInputId}>Don't fill this out if you're human:</label>
                                     <input aria-labelledby={formHoneypotLabelId} id={formHoneypotInputId} name={formHoneypotName} />
                                 </div>
-                                <input type="hidden" name="form-name" value={formId} class="required email" id="mce-EMAIL" />
+                                <input type="hidden" name="form-name" value={formId} />
                                 <div
                                     className={classNames('form-content', {
                                         'flex': formLayout === 'inline',
@@ -145,11 +144,10 @@ export default class FormSection extends React.Component {
                                             'ml-xs-1': formLayout === 'inline'
                                         })}
                                     >
-                                        <button value="Subscribe" name="subscribe" id="mc-embedded-subscribe" type="submit" className="btn btn--primary">{submitLabel}</button>
+                                        <button type="submit" className="btn btn--primary">{submitLabel}</button>
                                     </div>
                                 </div>
                             </form>
-                            
                         </div>
                     </div>
                 </div>
