@@ -97,7 +97,7 @@ export default class FormSection extends React.Component {
                                 'order-first': formPosition === 'top' || formPosition === 'left'
                             })}
                         >
-                            <form
+                            {/* <form
                                 name={formId}
                                 id={formId}
                                 {...(formAction ? ({ action: formAction }) : null)}
@@ -147,7 +147,7 @@ export default class FormSection extends React.Component {
                                         <button type="submit" className="btn btn--primary">{submitLabel}</button>
                                     </div>
                                 </div>
-                            </form>
+                            </form> */}
                         </div>
                     </div>
                 </div>
