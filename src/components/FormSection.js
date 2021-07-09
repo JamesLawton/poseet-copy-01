@@ -145,7 +145,7 @@ export default class FormSection extends React.Component {
                                             'ml-xs-1': formLayout === 'inline'
                                         })}
                                     >
-                                        <button type="submit" className="btn btn--primary">{submitLabel}</button>
+                                        <button value="Subscribe" name="subscribe" id="mc-embedded-subscribe" type="submit" className="btn btn--primary">{submitLabel}</button>
                                     </div>
                                 </div>
                             </form>
