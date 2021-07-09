@@ -101,7 +101,7 @@ export default class FormSection extends React.Component {
                                 action="https://gmail.us3.list-manage.com/subscribe/post?u=6bbba237f2301d590d83b67ef&amp;id=bff745b8bf" 
                                 name={formId}
                                 id={formId}
-                                {...(formAction ? ({ action: formAction }) : null)}
+                                // {...(formAction ? ({ action: formAction }) : null)}
                                 method="POST"
                                 data-netlify="true"
                                 data-netlify-honeypot={formHoneypotName}
