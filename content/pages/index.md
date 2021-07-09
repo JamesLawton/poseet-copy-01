@@ -158,7 +158,7 @@ sections:
       "https://gmail.us3.list-manage.com/subscribe/post?u=6bbba237f2301d590d83b67ef&amp;id=bff745b8bf"
     form_fields:
       - input_type: email
-        name: email
+        name: EMAIL
         label: Email
         default_value: Your email address
         is_required: true
