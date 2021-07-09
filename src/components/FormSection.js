@@ -116,7 +116,7 @@ export default class FormSection extends React.Component {
                                     <label id={formHoneypotLabelId} htmlFor={formHoneypotInputId}>Don't fill this out if you're human:</label>
                                     <input aria-labelledby={formHoneypotLabelId} id={formHoneypotInputId} name={formHoneypotName} />
                                 </div>
-                                <input type="hidden" name="form-name" value={formId} />
+                                <input type="hidden" name="form-name" value={formId} ype="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" />
                                 <div
                                     className={classNames('form-content', {
                                         'flex': formLayout === 'inline',
