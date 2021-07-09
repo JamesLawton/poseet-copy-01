@@ -97,7 +97,7 @@ export default class FormSection extends React.Component {
                                 'order-first': formPosition === 'top' || formPosition === 'left'
                             })}
                         >
-                        
+                        <div id="mc_embed_signup">
                         <form action="https://gmail.us3.list-manage.com/subscribe/post?u=6bbba237f2301d590d83b67ef&amp;id=bff745b8bf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
@@ -114,6 +114,7 @@ export default class FormSection extends React.Component {
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
+</div>
                             {/* <form
                                 name={formId}
                                 id={formId}
