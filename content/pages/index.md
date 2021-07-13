@@ -25,7 +25,7 @@ sections:
       <center><lottie-player
       src="https://assets1.lottiefiles.com/packages/lf20_cgy5nj21.json" 
       background="transparent"  speed="1"  style="width: 400px; height: 400px;" 
-      loop  autoplay></lottie-player>
+      loop  autoplay></lottie-player></center>
   - type: features_section
     title: Why Choose Poseet?
     features:
