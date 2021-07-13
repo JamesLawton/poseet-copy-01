@@ -19,9 +19,14 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    video_embed_html: >
+    video_embed_html: >-
       <script
       src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+      <lottie-player
+      src="https://assets1.lottiefiles.com/packages/lf20_cgy5nj21.json" 
+      background="transparent"  speed="1"  style="width: 400px; height: 400px;" 
+      loop controls autoplay></lottie-player>
   - type: features_section
     title: Why Choose Poseet?
     features:
