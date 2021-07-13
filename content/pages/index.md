@@ -69,7 +69,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/football-kicks-1.webp
+        image: /images/undraw_fitness_stats_sht6.svg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
