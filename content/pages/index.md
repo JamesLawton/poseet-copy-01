@@ -8,7 +8,6 @@ sections:
       - label: Try for free
         url: 'https://app.poseet.com'
         style: primary
-    image: /images/Screenshot 2021-06-21 at 13.46.37.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
