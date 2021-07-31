@@ -62,7 +62,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Unlock your best form
+      - title: Deliberate Practice
         content: >
           We analyze your form to measure every success. Do you make more
           freethrows on the basketball court when you increase the angle of your
