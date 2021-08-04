@@ -68,7 +68,7 @@ sections:
           Do you make more freethrows on the basketball court when you increase
           the angle of your elbow? How about how far a golf ball travels
           depending the rotation of your hips during the swing? These insights
-          are normally hard to see, but poseet helps reveal what works best for
+          are normally hard to see, but Poseet helps reveal what works best for
           you. Research has shown that deliberate practice enhances the learning
           process and acquisition of skills.
         actions:
