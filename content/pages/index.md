@@ -27,8 +27,6 @@ sections:
       background="transparent"  speed="1"  style="width: 400px; height: 400px;" 
       loop  autoplay></lottie-player></center>
     image: /images/Online Personal Trainer-amico (2)-c1e87f94.svg
-    content: |
-      ![](/images/Online%20Personal%20Trainer-amico%20\(2\)-000c94c3.svg)
   - type: features_section
     title: Why Choose Poseet?
     features:
