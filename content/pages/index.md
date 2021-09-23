@@ -23,9 +23,10 @@ sections:
     title: Why Choose Poseet?
     features:
       - content: >
-          Poseet provides real-time feedback on your dance move, golf swing,
-          yoga pose - any activity you would like to perfect. This helps you
-          adjust your form as you move and enables you to find your weak points.
+          poseet analyzes your form as you perform an activity like golf, yoga,
+          dancing and more, in real-time to give you feedback and know exactly
+          how and what to correct. Use any video as your expert guide to
+          increase your safety and master your technique!
         actions:
           - label: Learn More
             url: 'https://app.poseet.com'
