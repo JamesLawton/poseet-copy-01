@@ -45,7 +45,7 @@ sections:
           src="https://assets1.lottiefiles.com/packages/lf20_cgy5nj21.json" 
           background="transparent"  speed="1"  style="width: 400px; height:
           400px;"  loop  autoplay></lottie-player></center>
-        title: Form and pose analysis
+        title: Technique and Form analysis
       - title: 'Practice with any video - social, online, or your own'
         content: >
           Use any video, either your own, your favorite from online or from
