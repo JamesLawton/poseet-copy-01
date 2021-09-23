@@ -19,7 +19,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     image: /images/Online Personal Trainer-amico (2)-c1e87f94.svg
-    media_width: thirty
+    media_width: twenty
   - type: features_section
     title: Why Choose Poseet?
     features:
