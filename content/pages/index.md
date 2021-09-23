@@ -65,13 +65,10 @@ sections:
         media_width: sixty
       - title: Expert Guidance
         content: >
-          Practice, deliberately. We analyze your form to measure every success.
-          Do you make more freethrows on the basketball court when you increase
-          the angle of your elbow? How about how far a golf ball travels
-          depending the rotation of your hips during the swing? These insights
-          are normally hard to see, but poseet helps reveal what works best for
-          you. Research has shown that deliberate practice enhances the learning
-          process and acquisition of skills.
+          Have you ever wanted to kick a ball like Ronaldo or dance like
+          Rihanna? poseet can use any video as an expert guide to help you
+          replicate the same activities, even your own. We analyze your form to
+          measure every success and help you replicate it, time and time again.
         actions:
           - label: Learn More
             url: 'https://app.poseet.com'
