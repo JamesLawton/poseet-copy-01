@@ -34,6 +34,7 @@ sections:
       src="https://assets1.lottiefiles.com/packages/lf20_cgy5nj21.json" 
       background="transparent"  speed="1"  style="width: 400px; height: 400px;" 
       loop  autoplay></lottie-player></center>
+    image: /images/Online Personal Trainer-amico (2)-c1e87f94.svg
   - type: features_section
     title: Why Choose Poseet?
     features:
