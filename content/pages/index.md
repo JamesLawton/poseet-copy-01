@@ -8,7 +8,7 @@ sections:
       - label: Try for free
         url: 'https://app.poseet.com'
         style: primary
-    image_alt: Hero section placeholder image
+    image_alt: poseet-function
     media_position: bottom
     align: center
     padding_top: large
