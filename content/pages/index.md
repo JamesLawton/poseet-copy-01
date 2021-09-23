@@ -18,14 +18,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    video_embed_html: >-
-      <script
-      src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-      <center><lottie-player
-      src="https://assets1.lottiefiles.com/packages/lf20_cgy5nj21.json" 
-      background="transparent"  speed="1"  style="width: 400px; height: 400px;" 
-      loop  autoplay></lottie-player></center>
     image: /images/Online Personal Trainer-amico (2)-c1e87f94.svg
   - type: features_section
     title: Why Choose Poseet?
