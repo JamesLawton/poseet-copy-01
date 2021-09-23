@@ -50,8 +50,8 @@ sections:
         content: >
           Use any video, either your own, your favorite from online or from
           social media, as a reference for the movement you would like to
-          improve. Share your score and top the leaderboard to see who has the
-          best moves!
+          improve. Share your score, top the leaderboard, and compete with
+          others to see who has the best moves!
         actions:
           - label: Learn More
             url: 'https://app.poseet.com'
