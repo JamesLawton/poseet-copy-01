@@ -23,7 +23,7 @@ sections:
     title: Why Choose Poseet?
     features:
       - content: >
-          poseet analyzes your form as you perform an activity like golf, yoga,
+          Poseet analyzes your form as you perform any activity like golf, yoga,
           dancing and more, in real-time to give you feedback and know exactly
           how and what to correct. Use any video as your expert guide to
           increase your safety and master your technique!
