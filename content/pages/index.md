@@ -76,7 +76,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/undraw_fitness_stats_sht6.svg
+        image: /images/Online Personal Trainer-pana.svg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
