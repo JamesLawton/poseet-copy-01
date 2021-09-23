@@ -46,6 +46,14 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
+        video_embed_html: >-
+          <script
+          src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+          <center><lottie-player
+          src="https://assets1.lottiefiles.com/packages/lf20_cgy5nj21.json" 
+          background="transparent"  speed="1"  style="width: 400px; height:
+          400px;"  loop  autoplay></lottie-player></center>
       - title: 'Practice with any video - social, online, or your own'
         content: >
           Use any video, either your own, your favorite from online or from
