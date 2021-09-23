@@ -125,9 +125,9 @@ sections:
       - title: 4. Do the move!
         title_align: left
         content: >
-          Attempt to recreate the movement as accurately as possible. We can
-          provide feedback to help improve your form as you move. At the end,
-          we'll show your score of how close you were.
+          Attempt to recreate the movement as accurately as possible. We provide
+          feedback to help improve your form as you move. At the end, we'll show
+          your score of how similar you were to the reference video.
         content_align: left
         image_alt: Section item 4 icon
         image_position: top
