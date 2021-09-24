@@ -50,7 +50,7 @@ export default class HeroSection extends React.Component {
                     <div className="hero__content grid items-center">
                         {hasMedia && (
                             <div
-                                className={classNames('hero__media', 'my-2', 'cell-7', {
+                                className={classNames('hero__media', 'my-2', 'cell-12', {
                                     'cell-md-4': isHorizontal && mediaWidth === 'fourty',
                                     'cell-md-6': isHorizontal && mediaWidth === 'fifty',
                                     'cell-md-7': isHorizontal && mediaWidth === 'sixty'
