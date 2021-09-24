@@ -27,7 +27,7 @@ sections:
       - content: >
           Poseet analyzes your form as you perform any activity like golf, yoga,
           dancing and more, in real-time to give you feedback and know exactly
-          how, when, and what to correct. By using poseet, you will increase
+          how, when, and what to correct. By using our app, you will increase
           your safety, learn skills faster, and master your technique.
         actions:
           - label: Learn More
