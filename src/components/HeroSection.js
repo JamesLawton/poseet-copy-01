@@ -72,6 +72,11 @@ export default class HeroSection extends React.Component {
                                             })}
                                         />}
                             </div>
+                                                    <div
+                        className={classNames('hero__media', 'my-2', 'cell-2'
+                        )}
+                        >
+                        </div>
                         )}
                         {hasText && (
                             <div
