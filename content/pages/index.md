@@ -187,7 +187,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posee
+      value: 'Poseet - Learn any physical skill faster, better, smarter'
       keyName: property
     - name: 'og:description'
       value: The preview of the Startup theme
