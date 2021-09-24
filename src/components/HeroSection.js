@@ -49,7 +49,9 @@ export default class HeroSection extends React.Component {
                 <div className="container">
                     <div className="hero__content grid items-center">
                         <div
-                        className={classNames('hero__media', 'my-2', 'cell-2'></div>
+                        className={classNames('hero__media', 'my-2', 'cell-2'>
+                        
+                        </div>
                         {hasMedia && (
                             <div
                                 className={classNames('hero__media', 'my-2', 'cell-12', {
