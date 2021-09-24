@@ -68,7 +68,7 @@ sections:
       - title: Expert Guidance
         content: >
           Have you ever wanted to kick a ball like Ronaldo or dance like
-          Rihanna? poseet can use any video, even your own, as an expert guide
+          Rihanna? Poseet can use any video, even your own, as an expert guide
           to help you replicate the same activities. We analyze your form to
           measure every success and help you replicate it - time and time again.
         actions:
