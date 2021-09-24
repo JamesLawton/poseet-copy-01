@@ -205,5 +205,9 @@ seo:
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/Online Personal Trainer-amico (2)-000c94c3.svg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
