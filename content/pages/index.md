@@ -192,10 +192,6 @@ seo:
     - name: 'og:description'
       value: The preview of the Startup theme
       keyName: property
-    - name: 'og:image'
-      value: images/feature-1.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
