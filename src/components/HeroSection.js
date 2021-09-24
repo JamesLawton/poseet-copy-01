@@ -56,6 +56,13 @@ export default class HeroSection extends React.Component {
                                     'cell-md-7': isHorizontal && mediaWidth === 'sixty'
                                 })}
                             >
+                                                            <div
+                                className={classNames('hero__media', 'my-2', 'cell-8', {
+                                    'cell-md-4': isHorizontal && mediaWidth === 'fourty',
+                                    'cell-md-6': isHorizontal && mediaWidth === 'fifty',
+                                    'cell-md-7': isHorizontal && mediaWidth === 'sixty'
+                                })}
+                            >
                                 {videoEmbed ? htmlToReact(videoEmbed)
                                     : <img
                                             src={withPrefix(image)}
