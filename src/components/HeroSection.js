@@ -48,7 +48,8 @@ export default class HeroSection extends React.Component {
                 {backgroundImage && <SectionBackground section={section} />}
                 <div className="container">
                     <div className="hero__content grid items-center">
-                        <div></div>
+                        <div
+                        className={classNames('hero__media', 'my-2', 'cell-12'></div>
                         {hasMedia && (
                             <div
                                 className={classNames('hero__media', 'my-2', 'cell-12', {
