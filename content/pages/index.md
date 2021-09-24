@@ -199,7 +199,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Startup Theme
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: >-
+        Train and practice with any video - social, online or your own to
+        perfect your form.
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
