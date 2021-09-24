@@ -83,6 +83,16 @@
                 "label": "Privacy Policy",
                 "url": "https://app.poseet.com/privacy",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_social": true,
