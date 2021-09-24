@@ -190,7 +190,9 @@ seo:
       value: 'Poseet - Learn any physical skill faster, better, smarter'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: >-
+        Train and practice with any video - social, online or your own to
+        perfect your form.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
