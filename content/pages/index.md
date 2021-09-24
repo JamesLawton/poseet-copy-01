@@ -197,7 +197,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: 'Poseet - Learn any physical skill faster, better, smarter'
     - name: 'twitter:description'
       value: >-
         Train and practice with any video - social, online or your own to
