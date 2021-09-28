@@ -144,6 +144,5 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://poseet.com",
-    "favicon": "/images/favicon-16x16.png"
+    "domain": "https://poseet.com"
 }
