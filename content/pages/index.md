@@ -143,7 +143,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Ready to get started?
-    content: Start achieving your goals today!
+    content: |
+      Start mastering your technique today!
     actions:
       - label: Try for free
         url: 'https://poseet.com'
