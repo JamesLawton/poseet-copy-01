@@ -40,7 +40,7 @@ sections:
         media_position: right
         media_width: sixty
         video_embed_html: >-
-          <async script
+          <script
           src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
           <center><lottie-player
