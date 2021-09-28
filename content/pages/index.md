@@ -41,8 +41,7 @@ sections:
         media_width: sixty
         video_embed_html: >-
           <script
-          src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"
-          async></script>
+          src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
           <center><lottie-player
           src="https://assets1.lottiefiles.com/packages/lf20_cgy5nj21.json" 
